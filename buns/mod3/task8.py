@@ -1,0 +1,1 @@
+print("".join([str(i) if i not in "()- " else "" for i in input()]))

@@ -1,0 +1,1 @@
+print("".join([i[len(i)-1] for i in input().split()]))

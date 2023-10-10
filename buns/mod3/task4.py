@@ -1,0 +1,1 @@
+print("".join([chr(int(i)) for i in range(32, 127)]))
